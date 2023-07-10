@@ -31,3 +31,7 @@ Age Prediction: R2 Score
 
 Gender Prediction: Accuracy
 
+# Results
+
+![Output](https://github.com/JAYESH1304/Age_and_Gender_Prediction/blob/main/age%40gender.png)
+
