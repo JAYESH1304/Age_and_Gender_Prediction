@@ -16,6 +16,7 @@ Fully connected layers: Two fully connected layers with 256 units and ReLU activ
 Dropout layers: Apply dropout regularization with a rate of 0.3 to prevent overfitting.
 Output layers:
 1. Gender Prediction: Dense layer with sigmoid activation, outputting a single value for gender prediction.
+   
 2. Age Prediction: Dense layer with ReLU activation, outputting a single value for age prediction.
 
 
@@ -27,5 +28,6 @@ The model is compiled with a binary cross-entropy loss for gender prediction and
 The model's performance is assessed using the following evaluation metrics:
 
 Age Prediction: R2 Score
+
 Gender Prediction: Accuracy
 
