@@ -22,6 +22,7 @@ The model is compiled with a binary cross-entropy loss for gender prediction and
 
 
 #Evaluation Metrics
+
 The model's performance is assessed using the following evaluation metrics:
 
 Age Prediction: R2 Score
